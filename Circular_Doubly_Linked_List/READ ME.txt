@@ -1,0 +1,3 @@
+Sayilar.txt dosyasından 0-255 arası pozitif sayıları bulacak.
+Her satır için belirli bir algoritma ile iki yönlü dairesel bağıl liste oluşturalacak.
+Her satır için oluşan listelerdeki sayıların ASCII karşılığına denk gelen değerler ekrana yazdırılacak.
